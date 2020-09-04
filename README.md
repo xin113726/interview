@@ -19,3 +19,5 @@
 - [计时器](https://github.com/xin113726/interview/issues/9)
 
 - [事件循环 Event Loop](https://github.com/xin113726/interview/issues/10)
+
+- [异步编程](https://github.com/xin113726/interview/issues/11)

@@ -22,6 +22,8 @@
 
 - [异步编程](https://github.com/xin113726/interview/issues/11)
 
+- [原型链](https://github.com/xin113726/interview/issues/13)
+
 ## 算法
 
 - [排序](https://github.com/xin113726/interview/issues/12)

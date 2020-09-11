@@ -31,3 +31,7 @@
 ## 算法
 
 - [排序](https://github.com/xin113726/interview/issues/12)
+
+- [递归](https://github.com/xin113726/interview/issues/16)
+
+- [出现频率](https://github.com/xin113726/interview/issues/17)

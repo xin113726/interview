@@ -12,6 +12,8 @@
 
 - [类数组](https://github.com/xin113726/interview/issues/6)
 
+- [字符串](https://github.com/xin113726/interview/issues/20)
+
 - [This](https://github.com/xin113726/interview/issues/7)
 
 - [数据类型转换](https://github.com/xin113726/interview/issues/8)
